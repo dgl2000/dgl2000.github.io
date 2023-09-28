@@ -9,18 +9,16 @@ redirect_from:
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=12_M8j1cxYCzxziuwDVzi5IzogoFzghgG" alt="index page" style="width:400px;" /> <br>
-<hr></hr>
+<hr>
 
 <p align="left">
   <samp>
-  :penguin: &nbsp;Hi, I'm Gaole! you could call me Gloria. <br>
+  🐧 &nbsp;Hi, I'm Gaole! you could call me Gloria.<br>
   📚 &nbsp;I'm a graduate student pursuing MS in CS at <a href = "https://www.rice.edu/">Rice University</a>. <br>
-  👩‍🎓 &nbsp;Graduated from the <a href = "https://www.nottingham.edu.cn/">University of Nottingham Ningbo China</a> with a BS in CSAI. <br>
-  :briefcase: &nbsp;Seeking for SWE/SDE/APM NG after graduation this December, I would appreciate it if you could offer any support! <br>
-  🥅 &nbsp;Currently work on LeetCode and portfolio website.  <br>
-  💬 &nbsp;Ask me about anything, such as applications, programming, etc. I'm happy to answer! <br>
-  📫 &nbsp;Feel free to reach out to me via <a href = "mailto:gaole.dai@rice.edu">gaole.dai@rice.edu</a> :D <br>
-  😞 &nbsp;<i>P.S. I used to upload codes via my undergraduate student GitLab account which expired after graduation, so there is almost nothing in this account :( </i>
+  👩‍🎓 &nbsp;Previously, I graduated from the <a href = "https://www.nottingham.edu.cn/">University of Nottingham Ningbo China</a> with a BS degree in CSAI. <br>
+  💭 &nbsp;I like coding because it’s exciting and and always results in something tangible. Seeing my programs run and help make lives easier brings me a lot of joy. The dynamic nature of this field, with its ever-evolving technologies and methodologies, promises a lifelong journey of learning and adapting, which I eagerly anticipate. I'm thrilled to keep learning and using new skills to solve problems with impactful solutions and make a difference. <br>
+  🔥 &nbsp;My passion is to build awesome applications, incorporating various AI techniques to make them even more impactful. <br> 
+  📫 &nbsp;Ask me about anything, such as applications, programming, etc. I'm happy to answer! Feel free to reach out to me via <a href = "mailto:gaole.dai@rice.edu">gaole.dai@rice.edu</a> :D <br>
   </samp>
 </p>
 
