@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Gaole Dai CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,14 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Rice University, Aug. 2022 - Dec. 2023 (Expected)
-* B.S. in Computer Science, University of Nottingham Ningbo China, Sept. 2018 - Jul. 2022
+* M.S. in Computer Science | Rice University (GPA 3.90/4.00) | Aug. 2022 - Dec. 2023 (Expected)
+  * Relevant Course: Web Development and Design, Computer Systems Architecture, Graduate Design and Analysis of
+Algorithms, Engineering Project Management, Database System Implementation, Operating Systems And Concurrency
+Programming, IoT Programming And Data Analysis, Introduction to Deep Machine Learning
+* B.S. in Computer Science | University of Nottingham Ningbo China (GPA 3.86/4.00) | Sept. 2018 - Jul. 2022
+  * Relevant Course: Algorithms Correctness and Efficiency, Systems and Architecture, Databases and Interfaces, Operating
+Systems and Concurrency, Software Maintenance, Computer Security, Computer Graphics, Machine Learning
+  * Awards: Outstanding Graduate in 2022 & Scholarship for Academic Excellence in 2019, 2020 and 2021
 
 Programming Skills
 ======
@@ -44,6 +50,12 @@ Work experience
 
 Projects
 ======
+- Social Networking Website | Sept.~2022 - Dec.~2022
+  - Developed a social networking website similar to Facebook, including features such as registering, logging in, following, posting, and commenting.
+  - Designed a responsive user interface with Material UI and implemented authentication and authorization through OAuth for third-party account login.
+  - Implemented RESTful API and Node.js/Express.js to enable CRUD operations with MongoDB and utilized Cloudinary to store media data.
+  - Performed unit testing on both the frontend and backend using React Testing Library and Jasmine respectively.
+  - Deployed the website using Surge (*https://finalfoodzone-gd25.surge.sh/*) for the frontend and Heroku for the backend.
 - AI-based Image Feature Recognition System | Jun. 2021 - May 2022
   - Developed a self designed and web-based system which handled image feature extraction, recognition, and analysis and aimed to help users with similar image sorting problems.
   - Created self hosted AI driven image feature extraction system + similar image identification and grouping service.
