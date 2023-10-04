@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Computer Graphics: Christmas Village"
+excerpt: "Christmas village 3D scene<br/><br/><img src='https://drive.google.com/uc?export=view&id=1BMYbP0gmhcTYnyTjZhw___C8FXxriyGf' style='zoom: 30%' >"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src="https://drive.google.com/uc?export=view&id=1BMYbP0gmhcTYnyTjZhw___C8FXxriyGf" alt="main scene" style="zoom: 33%;" />
+Christmas village 3D scene
