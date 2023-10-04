@@ -15,7 +15,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
-gem "jekyll", "3.9.0"
+gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-gist"
 gem "jekyll-redirect-from"
