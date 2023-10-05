@@ -7,9 +7,6 @@ tags:
   - Non-tech
   - Food
 ---
-
-By Gaole Dai
-
 Not yet finished, will add all the recipes later...
 ## Why I want to write this
 
