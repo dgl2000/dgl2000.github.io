@@ -19,3 +19,5 @@ redirect_from:
   <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
   <a style="text-decoration:none" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/imgloriadai/30min'});return false;">schedule time chat with me</a>.<!-- Calendly link widget end --><br>
 </p>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FXd3U-bCJZ67SRn6TcpRRlE9Wz9S9Xggw3sJAu_rT6o&cl=ffffff&w=a"></script>
